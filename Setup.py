@@ -1,4 +1,4 @@
-# Jangan Lupa Subscribe Yt Gw yak Bre !!
+#FUCK YOU 
 import os, sys
 script_name = 'mardis.py'
 source_code = open(script_name).read()
